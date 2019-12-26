@@ -217,7 +217,7 @@ links_settings:
   layout: block
 
 links:
-  Title: https://weijin.tech
+  Home Page: https://weijin.tech
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
